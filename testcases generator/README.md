@@ -10,4 +10,5 @@ Inputs are:
 Testcases are saved inside "tests/" folder.
 
 ## Known issues
+- [ ] Currently only integers are generated.
 - [ ] Some languages (like python) require a specific structure for testcases (input.split for example), but this script creates test in a single line.
