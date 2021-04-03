@@ -3,7 +3,7 @@ Mainly used for generating multiple testcases for codeforces polygon problem set
 
 ## How it works
 Inputs are:
-* Number of cases
+* Number of testcases
 * Number of variables in each test
 * Start and end range for each variable.
 
