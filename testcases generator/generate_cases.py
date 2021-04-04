@@ -4,10 +4,9 @@ import os
 import shutil
 import platform
 import subprocess
+import sys
 
-def generate_cases():
-
-	path = 'tests/'
+def generate_cases(path):
 	seed(1)
 	
 	try:
@@ -51,5 +50,12 @@ def generate_cases():
 	else:
 		subprocess.Popen(["xdg-open", path])
 		
-		
-generate_cases()
+if __name__ == "__main__":
+	path = 'tests/'
+	if len(sys.argv) > 1:
+		path = str(sys.argv[1])
+	if not(path[-1] == '/'):
+		path = path + '/'
+	generate_cases(path)
+	
+	
