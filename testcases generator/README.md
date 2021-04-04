@@ -1,6 +1,14 @@
-# About this repository
-This repository contains python scripts I make to ease my work.
+# Test cases generator
+Mainly used for generating multiple testcases for codeforces polygon problem setting
 
-## Why sharing this?
-These scripts might not be fully efficient, so feel free to contribute if you have any improvements. 
-If you are python newbie, these simple scripts might help you understanding python syntax/lang better :blush:
+## How it works
+Inputs are:
+* Number of testcases
+* Number of variables in each test
+* Start and end range for each variable.
+
+Testcases are saved inside "tests/" folder.
+
+## Known issues
+- [ ] Currently only integers are generated.
+- [ ] Some languages (like python) require a specific structure for testcases (input.split for example), but this script creates test in a single line.
