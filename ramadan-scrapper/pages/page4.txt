@@ -1,10 +1,10 @@
 <html lang="en"><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="X-Csrf-Token" content="3f82b3a66bf3115afeebbaa9d92d0520">
+    <meta name="X-Csrf-Token" content="6ccd029388b20a236486e1a83dec43ac">
     <meta id="viewport" name="viewport" content="width=device-width, initial-scale=0.01">
 
 
-    <script src="https://connect.facebook.net/en_US/sdk.js?hash=4da4aeebb155b5e2fe59e21d05f5849d" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="//codeforces.org/s/16093/js/jquery-1.8.3.js"></script>
+    <script src="https://connect.facebook.net/en_US/sdk.js?hash=c83c1a88bc4e4367c3d3db3aaa918a9c" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="//codeforces.org/s/42979/js/jquery-1.8.3.js"></script>
     <script type="application/javascript">
         window.standaloneContest = false;
         function adjustViewport() {
@@ -29,21 +29,21 @@
     </script>
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="expires" content="-1">
-    <meta http-equiv="profileName" content="g2">
+    <meta http-equiv="profileName" content="i1">
     <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90">
     <meta property="fb:admins" content="100001352546622">
-    <meta property="og:image" content="//codeforces.org/s/16093/images/codeforces-telegram-square.png">
-    <link rel="image_src" href="//codeforces.org/s/16093/images/codeforces-telegram-square.png">
+    <meta property="og:image" content="//codeforces.org/s/42979/images/codeforces-telegram-square.png">
+    <link rel="image_src" href="//codeforces.org/s/42979/images/codeforces-telegram-square.png">
     <meta property="og:title" content="Standings - Ramadan Challange - Codeforces">
     <meta property="og:description" content="">
-    
+
     <meta property="og:site_name" content="Codeforces">
     <meta name="uc" content="af98fa8516f898c8946c96ba5bfde5efdfa8365f">
     <meta name="usmc" content="c1e9382918add2b76e381674771e3b9d1620d9ea">
-    
+
     <meta name="cc" content="171766835ab62a609e4603f8b2687f12b4d63781">
     <meta name="pc" content="14e3bf8daaa984cc906e0b119a2406601a64ae2a">
-    
+
     <meta name="utc_offset" content="+03:00">
     <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2">
     <title>Standings - Ramadan Challange - Codeforces</title>
@@ -51,50 +51,50 @@
         <meta name="keywords" content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup">
     <meta name="robots" content="index, follow">
 
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/font-awesome.min.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/font-awesome.min.css" type="text/css" charset="utf-8">
 
         <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
         <link href="//fonts.googleapis.com/css?family=Cuprum&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
 
 
-    <link rel="apple-touch-icon" sizes="57x57" href="//codeforces.org/s/16093/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="//codeforces.org/s/16093/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="//codeforces.org/s/16093/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="//codeforces.org/s/16093/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="//codeforces.org/s/16093/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="//codeforces.org/s/16093/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="//codeforces.org/s/16093/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="//codeforces.org/s/16093/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="//codeforces.org/s/16093/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="//codeforces.org/s/16093/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="//codeforces.org/s/16093/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="//codeforces.org/s/16093/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="//codeforces.org/s/16093/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="//codeforces.org/s/42979/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//codeforces.org/s/42979/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="//codeforces.org/s/42979/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//codeforces.org/s/42979/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="//codeforces.org/s/42979/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//codeforces.org/s/42979/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="//codeforces.org/s/42979/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//codeforces.org/s/42979/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="//codeforces.org/s/42979/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="//codeforces.org/s/42979/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//codeforces.org/s/42979/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="//codeforces.org/s/42979/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//codeforces.org/s/42979/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="//codeforces.org/s/16093/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="//codeforces.org/s/42979/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
     <!--CombineResourcesFilter-->
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/prettify.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/clear.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/style.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/ttypography.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/problem-statement.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/second-level-menu.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/roundbox.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/datatable.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/table-form.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/topic.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/jquery.jgrowl.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/facebox.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/jquery.wysiwyg.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/jquery.autocomplete.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/codeforces.datepick.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/colorbox.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/css/jquery.drafts.css" type="text/css" charset="utf-8">
-        <link rel="stylesheet" href="//codeforces.org/s/16093/css/status.css" type="text/css" charset="utf-8">
-        <link rel="stylesheet" href="//codeforces.org/s/16093/css/community.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/prettify.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/clear.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/style.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/ttypography.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/problem-statement.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/second-level-menu.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/roundbox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/datatable.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/table-form.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/topic.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/jquery.jgrowl.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/facebox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/jquery.wysiwyg.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/jquery.autocomplete.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/codeforces.datepick.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/colorbox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/css/jquery.drafts.css" type="text/css" charset="utf-8">
+        <link rel="stylesheet" href="//codeforces.org/s/42979/css/status.css" type="text/css" charset="utf-8">
+        <link rel="stylesheet" href="//codeforces.org/s/42979/css/community.css" type="text/css" charset="utf-8">
 
     <!-- MathJax -->
     <script type="text/x-mathjax-config;executed=true">
@@ -109,42 +109,42 @@
     </script>
     <!-- /MathJax -->
 
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/prettify/prettify.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/moment-with-locales.min.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/pushstream.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.easing.min.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.lavalamp.min.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.jgrowl.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.swipe.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.hotkeys.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/facebox.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.wysiwyg.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/controls/wysiwyg.colorpicker.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/controls/wysiwyg.table.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/controls/wysiwyg.image.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/controls/wysiwyg.link.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.autocomplete.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/ua-parser.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.datepick.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.ie6blocker.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.colorbox-min.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.ba-bbq.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/jquery.drafts.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/clipboard.min.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/autosize.min.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/sjcl.js"></script>
-    <script type="text/javascript" src="/scripts/5026d7aa390fcd3bd356c700129a42a4/en/codeforces-options.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/codeforces.js?v=20160131"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/EventCatcher.js?v=20160131"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/js/preparedVerdictFormats-en.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/prettify/prettify.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/pushstream.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.lavalamp.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.jgrowl.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.swipe.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.hotkeys.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/facebox.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/controls/wysiwyg.colorpicker.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/controls/wysiwyg.table.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/controls/wysiwyg.image.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/controls/wysiwyg.link.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/ua-parser.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.datepick.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.ie6blocker.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.ba-bbq.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/jquery.drafts.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/clipboard.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/autosize.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/sjcl.js"></script>
+    <script type="text/javascript" src="/scripts/ffb659be564619c08cd4e6d01acf755c/en/codeforces-options.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/codeforces.js?v=20160131"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/EventCatcher.js?v=20160131"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/js/preparedVerdictFormats-en.js"></script>
     <!--/CombineResourcesFilter-->
 
-    <link rel="stylesheet" href="//codeforces.org/s/16093/markitup/skins/markitup/style.css" type="text/css" charset="utf-8">
-    <link rel="stylesheet" href="//codeforces.org/s/16093/markitup/sets/markdown/style.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/markitup/skins/markitup/style.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/42979/markitup/sets/markdown/style.css" type="text/css" charset="utf-8">
 
 
-    <script type="text/javascript" src="//codeforces.org/s/16093/markitup/jquery.markitup.js"></script>
-    <script type="text/javascript" src="//codeforces.org/s/16093/markitup/sets/markdown/set.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/markitup/jquery.markitup.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/42979/markitup/sets/markdown/set.js"></script>
 
     <!--[if IE]>
     <style>
@@ -156,7 +156,7 @@
     <![endif]-->
 
 
-        <script id="nocomb.jquery.scrollTo-min.js" src="//codeforces.org/s/16093/js/jquery.scrollTo-min.js" type="text/javascript"></script>
+        <script id="nocomb.jquery.scrollTo-min.js" src="//codeforces.org/s/42979/js/jquery.scrollTo-min.js" type="text/javascript"></script>
 
 <style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
 .MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
@@ -295,11 +295,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
 .fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_customer_chat_bubble_animated_no_badge{box-shadow:0 3px 12px rgba(0, 0, 0, .15);transition:box-shadow 150ms linear}.fb_customer_chat_bubble_animated_no_badge:hover{box-shadow:0 5px 24px rgba(0, 0, 0, .3)}.fb_customer_chat_bubble_animated_with_badge{box-shadow:-5px 4px 14px rgba(0, 0, 0, .15);transition:box-shadow 150ms linear}.fb_customer_chat_bubble_animated_with_badge:hover{box-shadow:-5px 8px 24px rgba(0, 0, 0, .2)}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_new_ui_mobile_overlay_active{overflow:hidden}@keyframes fb_mpn_landing_page_slide_in{0%{border-radius:50%;margin:0 24px;width:60px}40%{border-radius:18px}100%{margin:0 12px;width:100% - 24px}}@keyframes fb_mpn_landing_page_slide_in_from_left{0%{border-radius:50%;left:12px;margin:0 24px;width:60px}40%{border-radius:18px}100%{left:12px;margin:0 12px;width:100% - 24px}}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes fb_bounce_out_v2_mobile_chat_started{0%{opacity:1;top:0}100%{opacity:0;top:20px}}@keyframes fb_customer_chat_bubble_bounce_in_animation{0%{bottom:6pt;opacity:0;transform:scale(0, 0);transform-origin:center}70%{bottom:18pt;opacity:1;transform:scale(1.2, 1.2)}100%{transform:scale(1, 1)}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head>
-<body class=" " data-new-gr-c-s-check-loaded="8.872.0" data-gr-ext-installed="" cz-shortcut-listen="true"><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px none; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div><span style="display:none;" class="csrf-token" data-csrf="3f82b3a66bf3115afeebbaa9d92d0520">&nbsp;</span>
+<body class=" " data-new-gr-c-s-check-loaded="8.872.0" data-gr-ext-installed="" cz-shortcut-listen="true"><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px none; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div><span style="display:none;" class="csrf-token" data-csrf="6ccd029388b20a236486e1a83dec43ac">&nbsp;</span>
 
 <!-- .notificationTextCleaner used in Codeforces.showAnnouncements() -->
 <div class="notificationTextCleaner" style="font-size: 0"></div>
-<div class="button-up" style="display: none; opacity: 0.7; width: 50px; height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 3.0rem;"><i class="icon-circle-arrow-up"></i></div>
+<div class="button-up" style="opacity: 0.7; width: 50px; height: 100%; position: fixed; left: 0px; top: 0px; cursor: pointer; text-align: center; line-height: 35px; color: rgb(211, 219, 228); font-weight: bold; font-size: 3rem;"><i class="icon-circle-arrow-up"></i></div>
 <div class="verdictPrototypeDiv" style="display: none;"></div>
 
 <!-- Codeforces JavaScripts. -->
@@ -544,7 +544,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         }
     }
 
-    Codeforces.setupContestTimes("/group/p6hc42ieQe/data/contests");
+    Codeforces.setupContestTimes("/data/contests");
     Codeforces.setupSpoilers();
     Codeforces.setupTutorials("/data/problemTutorial");
         });
@@ -594,9 +594,9 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                     }
                 }, 5000);
             </script>
-        
 
-<div class="side-bell" style="visibility: hidden; display: none; opacity: 0.7; width: 40px; position: fixed; right: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 1.5rem;">
+
+<div class="side-bell" style="visibility: hidden; opacity: 0.7; width: 40px; position: fixed; right: 0px; top: 0px; cursor: pointer; text-align: center; line-height: 35px; color: rgb(211, 219, 228); font-weight: bold; font-size: 1.5rem;">
     <span class="icon-stack" style="width: 100%;">
         <i class="icon-circle icon-stack-base"></i>
         <i class="icon-bell-alt icon-light"></i>
@@ -617,7 +617,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
     .header-bell__img {
         opacity: 0.5;
-        background-image: url("//codeforces.org/s/16093/images/icons/bell_inactive-20x20.png");
+        background-image: url("//codeforces.org/s/42979/images/icons/bell_inactive-20x20.png");
         position: relative;
         bottom: 1px;
         width: 20px;
@@ -626,7 +626,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
     .header-bell__img-active  {
         opacity: 1 !important;
-        background-image: url("//codeforces.org/s/16093/images/icons/bell_active-20x20.png") !important;
+        background-image: url("//codeforces.org/s/42979/images/icons/bell_active-20x20.png") !important;
     }
 
     .header-bell__count {
@@ -1066,13 +1066,13 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
 <div id="header" style="position: relative;">
     <div style="float:left;">
-            <a href="https://www.facebook.com/ICPCSCU"><h1 style="color: rgb(34,29,32);">  ICPC Suez Canal University Community </h1> </a><h3 style="color: rgb(175,42,37);"> Junior Phase </h3><h5 style="color: rgb(53,132,228);"> Make it work, make it right, make it fast  </h5>
+                    <a href="/"><img alt="Codeforces" title="Codeforces" src="//codeforces.org/s/42979/images/codeforces-logo-with-telegram.png"></a>
     </div>
     <div class="lang-chooser">
         <div style="text-align: right;"><div class="header-bell" style="">
     <div class="header-bell__img"><span class="header-bell__count"></span></div>
 
-    <div class="bell-details">
+    <div class="bell-details sidebar-bell">
         <div class="bell-details__proto-row-comment">
             <a class="bell-details__thumbnail-a" href="#"><img src=""></a>
             <div class="bell-details__comment"></div>
@@ -1097,15 +1097,15 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </div>
     </div>
 </div><span style="position: relative; bottom: 8px; padding: 0 0.5em;">|</span>
-            <a href="?locale=en"><img src="//codeforces.org/s/16093/images/flags/24/gb.png" title="In English" alt="In English"></a>
-            <a href="?locale=ru"><img src="//codeforces.org/s/16093/images/flags/24/ru.png" title="По-русски" alt="По-русски"></a>
+            <a href="?locale=en"><img src="//codeforces.org/s/42979/images/flags/24/gb.png" title="In English" alt="In English"></a>
+            <a href="?locale=ru"><img src="//codeforces.org/s/42979/images/flags/24/ru.png" title="По-русски" alt="По-русски"></a>
         </div>
 
         <div>
                         <a href="/profile/Waelz">Waelz</a>
-                     | 
-                        <a href="/af2037137efbfd717f5f91767c3fb0e8/logout">Logout</a>
-                    
+                     |
+                        <a href="/86fb850667d314f1e53b70fceea7de45/logout">Logout</a>
+
         </div>
 
 
@@ -1113,7 +1113,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
     </div>
     <br style="clear: both;">
 </div>
-        
+
 
     <div class="roundbox menu-box" style="">
             <div class="roundbox-lt">&nbsp;</div>
@@ -1125,18 +1125,18 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                 <li class=""><a href="/">Home</a></li>
                 <li class=""><a href="/top">Top</a></li>
                 <li class=""><a href="/contests">Contests</a></li>
-                <li class=""><a href="/gyms">Gym</a></li>
+                <li class="current"><a href="/gyms">Gym</a></li>
                 <li class=""><a href="/problemset">Problemset</a></li>
-                <li class="current"><a href="/groups/my">Groups</a></li>
+                <li class=""><a href="/groups/my">Groups</a></li>
                 <li class=""><a href="/ratings">Rating</a></li>
                 <li class=""><a href="/edu/courses"><span class="edu-menu-item">Edu</span></a></li>
                 <li class=""><a href="/apiHelp">API</a></li>
                 <li class=""><a href="/calendar">Calendar</a></li>
                 <li class=""><a href="/help">Help</a></li>
     </ul>
-        <form method="post" action="/search"><input type="hidden" name="csrf_token" value="3f82b3a66bf3115afeebbaa9d92d0520">
+        <form method="post" action="/search"><input type="hidden" name="csrf_token" value="6ccd029388b20a236486e1a83dec43ac">
             <input class="search" name="query" data-isplaceholder="true" value="">
-        <input type="hidden" name="_tta" value="679"></form>
+        <input type="hidden" name="_tta" value="332"></form>
     <br style="clear: both;">
 </div>
 
@@ -1157,12 +1157,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         <div style="position: relative;">
                 <div id="pageContent">
                     <div class="second-level-menu">
-<ul class="second-level-menu-list"><li class="backLava" style="position: absolute; display: block; margin: 0px; padding: 0px; left: 81.6834px; top: 0px; width: 98px; height: 20px; overflow: hidden;"><div class="leftLava"></div><div class="bottomLava"></div><div class="cornerLava"></div></li>
-        <li><a href="/group/p6hc42ieQe/contest/324287">Problems</a></li>
+<ul class="second-level-menu-list"><li class="backLava" style="position: absolute; display: block; margin: 0px; padding: 0px; left: 81.6834px; top: 0px; width: 109px; height: 20px;"><div class="leftLava"></div><div class="bottomLava"></div><div class="cornerLava"></div></li>
+        <li><a href="/gym/324287">Problems</a></li>
         <li class="noLava"><a>|</a></li>
-        <li class="current selectedLava"><a href="/group/p6hc42ieQe/contest/324287/standings/groupmates/true">Group standings</a></li>
-        <li><a href="/group/p6hc42ieQe/contest/324287/standings">Common standings</a></li>
-        <li><a href="/group/p6hc42ieQe/contest/324287/standings/friends/true">Friends standings</a></li>
+        <li class="current selectedLava"><a href="/gym/324287/standings">Common standings</a></li>
+        <li><a href="/gym/324287/standings/friends/true">Friends standings</a></li>
 </ul>
 </div>
 
@@ -1175,12 +1174,12 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
     })
 </script>
 <div style="float: right; position: relative; bottom: 3em; font-size: 1.0rem;">
-        <form action="" method="post" class="toggle-show-unofficial" style="margin-top: 0.5em;"><input type="hidden" name="csrf_token" value="3f82b3a66bf3115afeebbaa9d92d0520">
+        <form action="" method="post" class="toggle-show-unofficial" style="margin-top: 0.5em;"><input type="hidden" name="csrf_token" value="6ccd029388b20a236486e1a83dec43ac">
             <input type="hidden" name="action" value="toggleShowUnofficial">
             <input type="hidden" name="newShowUnofficialValue" value="true">
             <input name="showUnofficial" id="showUnofficial" type="checkbox">
             <label for="showUnofficial" style="position: relative; bottom: 0.4em;">show unofficial</label>
-        <input type="hidden" name="_tta" value="679"></form>
+        <input type="hidden" name="_tta" value="332"></form>
 </div>
 <br style="clear: right;">
 
@@ -1215,12 +1214,12 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
 <div style="margin: 0.5em auto; width: 100%;text-align:center;">
     <div class="contest-name" style="margin:0.5em auto;">
-        <a style="color: #445f9d; text-decoration: none" href="/group/p6hc42ieQe/contest/324287">
+        <a style="color: #445f9d; text-decoration: none" href="/gym/324287">
 Ramadan Challange        </a>
     </div>
         <span class="contest-status">Contest is running</span>
-    
-    <br><span home="//codeforces.org/s/16093" class="countdown" noredirection="true" textbeforeredirect="The contest is over, reload the page to view the results" cdid="i1"><span title="569:29:14">3 weeks</span></span>
+
+    <br><span home="//codeforces.org/s/42979" class="countdown" noredirection="true" textbeforeredirect="The contest is over, reload the page to view the results" cdid="i1"><span title="548:56:28">3 weeks</span></span>
 </div>
 
 <div style="text-align:right;color:#888;font-size:1.1rem;margin-bottom:0.25em;">
@@ -1252,10 +1251,10 @@ Ramadan Challange        </a>
                 <div style="position:absolute;right:0.25em;top:0.35em;">
                     <span style="padding:0;position:relative;bottom:2px;" class="rowCount"></span>
 
-                    <img class="closed" src="//codeforces.org/s/16093/images/icons/control.png">
+                    <img class="closed" src="//codeforces.org/s/42979/images/icons/control.png">
 
                     <span class="filter" style="display:none;">
-                        <img class="opened" src="//codeforces.org/s/16093/images/icons/control-270.png">
+                        <img class="opened" src="//codeforces.org/s/42979/images/icons/control-270.png">
                         <input style="padding:0 0 0 20px;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;">
                     </span>
                 </div>
@@ -1270,1208 +1269,1051 @@ Ramadan Challange        </a>
     <th style="width:2em;" class="top">=</th>
         <th style="width:4em;" class="top">Penalty</th>
     <th style="width:4em;" class="top">
-            <a title="1 - Ramadan Kareem" href="/group/p6hc42ieQe/contest/324287/problem/1">1</a>
+            <a title="1 - Ramadan Kareem" href="/gym/324287/problem/1">1</a>
     </th>
     <th style="width:4em;" class="top">
-            <a title="2 - Blind Hour" href="/group/p6hc42ieQe/contest/324287/problem/2">2</a>
+            <a title="2 - Blind Hour" href="/gym/324287/problem/2">2</a>
     </th>
     <th style="width:4em;" class="top">
-            <a title="3 - Make it Palindrome" href="/group/p6hc42ieQe/contest/324287/problem/3">3</a>
+            <a title="3 - Make it Palindrome" href="/gym/324287/problem/3">3</a>
     </th>
     <th style="width:4em;" class="top">
-            <a title="4 - Balanced Words" href="/group/p6hc42ieQe/contest/324287/problem/4">4</a>
+            <a title="4 - Balanced Words" href="/gym/324287/problem/4">4</a>
     </th>
     <th style="width:4em;" class="top">
-            <a title="5 - Good Pairs" href="/group/p6hc42ieQe/contest/324287/problem/5">5</a>
+            <a title="5 - Good Pairs" href="/gym/324287/problem/5">5</a>
     </th>
     <th style="width:4em;" class="top">
-            <a title="6 - You Will Never Escape" href="/group/p6hc42ieQe/contest/324287/problem/6">6</a>
+            <a title="6 - You Will Never Escape" href="/gym/324287/problem/6">6</a>
     </th>
     <th style="width:4em;" class="top">
-            <a title="7 - Easy Bits" href="/group/p6hc42ieQe/contest/324287/problem/7">7</a>
+            <a title="7 - Easy Bits" href="/gym/324287/problem/7">7</a>
+    </th>
+    <th style="width:4em;" class="top">
+            <a title="8 - Hard Bits" href="/gym/324287/problem/8">8</a>
     </th>
     <th style="width:4em;" class="top right">
-            <a title="8 - Hard Bits" href="/group/p6hc42ieQe/contest/324287/problem/8">8</a>
+            <a title="9 - Is it Math ?" href="/gym/324287/problem/9">9</a>
     </th>
 </tr>
-<tr participantid="112544216">
+<tr participantid="112544654">
     <td class="dark left">
-        
-            1
+
+            61
     </td>
 
     <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/maghrabyJr_" title="Specialist maghrabyJr_" class="rated-user user-cyan">maghrabyJr_</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112544216" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+        <a href="/profile/engeman015" title="Newbie engeman015" class="rated-user user-gray">engeman015</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112544654" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td class="dark">8</td>
+    <td class="dark">2</td>
 
         <td class="dark">
-                41261
+                1901
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112961004" class="dark">
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112961928" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">03:00</span>
-        
+        <span class="cell-time">03:29</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113036035" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:00:12</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113120454" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:00:15</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113272114" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:03</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113364587" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:52</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113440848" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:07</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113556126" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:15</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17" acceptedsubmissionid="113649957" class="dark right">
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113045552" class="dark">
         <span class="cell-accepted">+2</span>
-        <span class="cell-time">7:02:17</span>
-        
+        <span class="cell-time">1:03:32</span>
+
+    </td>
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
     </td>
 </tr>
-<tr participantid="112534119">
+<tr participantid="112542787">
     <td class="left">
-        
-            2
+
+            62
     </td>
 
     <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/MuhammadHassan" title="Specialist MuhammadHassan" class="rated-user user-cyan">MuhammadHassan</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112534119" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Rana-Mohsen" title="Unrated, Rana-Mohsen" class="rated-user user-black">Rana-Mohsen</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112542787" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td>8</td>
-
-        <td>
-                41561
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++11" acceptedsubmissionid="112959107">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">02:12</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++11" acceptedsubmissionid="113041434">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:01:48</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++11" acceptedsubmissionid="113126660">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:02:11</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++11" acceptedsubmissionid="113280155">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:05:18</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++11" acceptedsubmissionid="113362818">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:13</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++11" acceptedsubmissionid="113441189">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:16</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++11" acceptedsubmissionid="113556130">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:15</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++11" acceptedsubmissionid="113649492" class="right">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">7:02:08</span>
-        
-    </td>
-</tr>
-<tr participantid="112543735">
-    <td class="dark left">
-        
-            3
-    </td>
-
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-        <a href="/profile/Belalmoawad" title="Newbie Belalmoawad" class="rated-user user-gray">Belalmoawad</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112543735" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td class="dark">8</td>
-
-        <td class="dark">
-                41610
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112959952" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">02:31</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113046547" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">1:04:06</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113125515" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:01:49</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113272244" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:05</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113362836" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:13</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113441563" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:25</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113556467" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:21</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17" acceptedsubmissionid="113651072" class="dark right">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">7:02:40</span>
-        
-    </td>
-</tr>
-<tr participantid="112531653">
-    <td class="left">
-        
-            4
-    </td>
-
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/aboelsoudJr" title="Newbie aboelsoudJr" class="rated-user user-gray">aboelsoudJr</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112531653" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td>8</td>
+    <td>2</td>
 
         <td>
-                41667
+                2089
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17 (64)" acceptedsubmissionid="112951898">
+    <td contestid="324287" problemid="955533" title="GNU C++11" acceptedsubmissionid="112958076">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">00:06</span>
-        
+        <span class="cell-time">01:51</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17 (64)" acceptedsubmissionid="113036099">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">1:00:13</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17 (64)" acceptedsubmissionid="113122135">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:00:46</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17 (64)" acceptedsubmissionid="113272171">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:04</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17 (64)" acceptedsubmissionid="113369490">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:05:22</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17 (64)" acceptedsubmissionid="113446604">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:04:44</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17 (64)" acceptedsubmissionid="113556547">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:23</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17 (64)" acceptedsubmissionid="113657234" class="right">
+    <td contestid="324287" problemid="957343" title="GNU C++11" acceptedsubmissionid="113052278">
         <span class="cell-accepted">+3</span>
-        <span class="cell-time">7:05:29</span>
-        
-    </td>
-</tr>
-<tr participantid="112544955">
-    <td class="dark left">
-        
-            5
-    </td>
+        <span class="cell-time">1:07:58</span>
 
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Hossamsalah33" title="Newbie Hossamsalah33" class="rated-user user-gray">Hossamsalah33</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112544955" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
-
-
-    <td class="dark">8</td>
-
-        <td class="dark">
-                42556
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17 (64)" acceptedsubmissionid="112962686" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">03:59</span>
-        
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17 (64)" acceptedsubmissionid="113047358" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:04:31</span>
-        
+    <td contestid="324287" problemid="959609" title="GNU C++11">
+<span class="cell-rejected">-3</span>
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17 (64)" acceptedsubmissionid="113135178" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:06:51</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17 (64)" acceptedsubmissionid="113274036" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">3:02:33</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17 (64)" acceptedsubmissionid="113367941" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:04:26</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17 (64)" acceptedsubmissionid="113445905" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:04:20</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17 (64)" acceptedsubmissionid="113558417" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">6:02:59</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17 (64)" acceptedsubmissionid="113658008" class="dark right">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">7:05:57</span>
-        
-    </td>
-</tr>
-<tr participantid="112540019">
-    <td class="left">
-        
-            6
-    </td>
-
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Omar_Elaraby" title="Specialist Omar_Elaraby" class="rated-user user-cyan">Omar_Elaraby</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112540019" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td>8</td>
-
-        <td>
-                43141
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++14" acceptedsubmissionid="113032380">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">23:16</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++14" acceptedsubmissionid="113035937">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:00:11</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++14" acceptedsubmissionid="113122051">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">2:00:44</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++14" acceptedsubmissionid="113276174">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:03:17</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++14" acceptedsubmissionid="113362894">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:14</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++14" acceptedsubmissionid="113445553">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:04:09</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++14" acceptedsubmissionid="113572168">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:08:54</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++14" acceptedsubmissionid="113653392" class="right">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">7:03:36</span>
-        
-    </td>
-</tr>
-<tr participantid="112589539">
-    <td class="dark left">
-        
-            7
-    </td>
-
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Eslam__Waheed" title="Pupil Eslam__Waheed" class="rated-user user-green">Eslam__Waheed</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112589539" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td class="dark">8</td>
-
-        <td class="dark">
-                43337
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113044987" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:03:15</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113045201" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">1:03:22</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113130411" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:03:44</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113274071" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:33</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113366120" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:03:31</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113443913" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:03:26</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113555897" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:11</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17" acceptedsubmissionid="113653339" class="dark right">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">7:03:35</span>
-        
-    </td>
-</tr>
-<tr participantid="112637585">
-    <td class="left">
-        
-            8
-    </td>
-
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/RetiredRadwan" title="Specialist RetiredRadwan" class="rated-user user-cyan">RetiredRadwan</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112637585" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td>8</td>
-
-        <td>
-                46445
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113132196">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:04:45</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113133230">
-        <span class="cell-accepted">+4</span>
-        <span class="cell-time">2:05:28</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113133051">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">2:05:20</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113273021">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:17</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113363914">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:36</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113440997">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:10</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++14" acceptedsubmissionid="113555858">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:10</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++14" acceptedsubmissionid="113650050" class="right">
-        <span class="cell-accepted">+3</span>
-        <span class="cell-time">7:02:19</span>
-        
-    </td>
-</tr>
-<tr participantid="112749893">
-    <td class="dark left">
-        
-            9
-    </td>
-
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/BahaaDagher" title="Pupil BahaaDagher" class="rated-user user-green">BahaaDagher</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112749893" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td class="dark">8</td>
-
-        <td class="dark">
-                58820
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113376569" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:09:37</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113376851" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:09:44</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113379028" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">4:10:43</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113377840" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:10:12</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113377676" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">4:10:07</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113446575" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:04:42</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113567498" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:07:02</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17" acceptedsubmissionid="113656757" class="dark right">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">7:05:13</span>
-        
-    </td>
-</tr>
-<tr participantid="112780037">
-    <td class="left">
-        
-            10
-    </td>
-
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Zidaan" title="Newbie Zidaan" class="rated-user user-gray">Zidaan</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112780037" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td>8</td>
-
-        <td>
-                62607
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113433711">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:23:32</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113434132">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:23:38</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113434872">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:23:51</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113441897">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:33</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113435365">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:00:02</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113442791">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:57</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113558366">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:57</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17" acceptedsubmissionid="113654168" class="right">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">7:03:57</span>
-        
-    </td>
-</tr>
-<tr participantid="112532598">
-    <td class="dark left">
-        
-            11
-    </td>
-
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Mohamed_Ibrahim1" title="Newbie Mohamed_Ibrahim1" class="rated-user user-gray">Mohamed_Ibrahim1</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112532598" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td class="dark">7</td>
-
-        <td class="dark">
-                31335
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17 (64)" acceptedsubmissionid="112951699" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">00:03</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17 (64)" acceptedsubmissionid="113036093" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">1:00:13</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17 (64)" acceptedsubmissionid="113129610" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">2:03:21</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17 (64)" acceptedsubmissionid="113273001" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:17</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17 (64)" acceptedsubmissionid="113363224" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">4:02:21</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17 (64)" acceptedsubmissionid="113446992" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:04:55</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17 (64)" acceptedsubmissionid="113556631" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">6:02:25</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17 (64)" class="dark right">
+    <td contestid="324287" problemid="961198" title="GNU C++11">
 <span class="cell-rejected">-1</span>
     </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
 </tr>
-<tr participantid="112531800">
-    <td class="left">
-        
-            12
+<tr participantid="112544794">
+    <td class="dark left">
+
+            63
     </td>
 
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/HodaKamal" title="Newbie HodaKamal" class="rated-user user-gray">HodaKamal</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112531800" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+        <a href="/profile/yomnakerir" title="Unrated, yomnakerir" class="rated-user user-black">yomnakerir</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112544794" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td>7</td>
+    <td class="dark">2</td>
 
-        <td>
-                31925
+        <td class="dark">
+                2988
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17 (64)" acceptedsubmissionid="112951763">
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112962208" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">00:04</span>
-        
+        <span class="cell-time">03:39</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17 (64)" acceptedsubmissionid="113051099">
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113104603" class="dark">
         <span class="cell-accepted">+4</span>
-        <span class="cell-time">1:07:07</span>
-        
+        <span class="cell-time">1:20:49</span>
+
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17 (64)" acceptedsubmissionid="113128803">
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112545211">
+    <td class="left">
+
+            64
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Sara.Sroor" title="Unrated, Sara.Sroor" class="rated-user user-black">Sara.Sroor</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112545211" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                3136
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112963356">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">04:25</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113117921">
+        <span class="cell-accepted">+1</span>
+        <span class="cell-time">1:23:31</span>
+
+    </td>
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112543466">
+    <td class="dark left">
+
+            65
+    </td>
+
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/saif_kandil" title="Unrated, saif_kandil" class="rated-user user-black">saif_kandil</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112543466" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td class="dark">2</td>
+
+        <td class="dark">
+                3196
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17 (64)" acceptedsubmissionid="112971589" class="dark">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">09:48</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17 (64)" acceptedsubmissionid="113094550" class="dark">
+        <span class="cell-accepted">+1</span>
+        <span class="cell-time">1:19:08</span>
+
+    </td>
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112538372">
+    <td class="left">
+
+            66
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Nada_Ashraf" title="Unrated, Nada_Ashraf" class="rated-user user-black">Nada_Ashraf</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112538372" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                3233
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112958193">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">01:53</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113128782">
         <span class="cell-accepted">+3</span>
         <span class="cell-time">2:03:00</span>
-        
+
     </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17 (64)" acceptedsubmissionid="113276654">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">3:03:30</span>
-        
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17 (64)" acceptedsubmissionid="113366728">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:03:50</span>
-        
+    <td contestid="324287" problemid="959609" title="GNU C++17">
+<span class="cell-rejected">-3</span>
     </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17 (64)" acceptedsubmissionid="113442170">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:40</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17 (64)" acceptedsubmissionid="113562725">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">6:04:54</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17 (64)" class="right">
+    <td contestid="324287" problemid="961198" title="GNU C++17">
 <span class="cell-rejected">-2</span>
     </td>
-</tr>
-<tr participantid="112547128">
-    <td class="dark left">
-        
-            13
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/AmrSalama" title="Specialist AmrSalama" class="rated-user user-cyan">AmrSalama</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112547128" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-
-
-    <td class="dark">7</td>
-
-        <td class="dark">
-                32431
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112967629" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">07:37</span>
-        
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113051386" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:07:19</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113136018" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:07:25</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113282924" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">3:07:08</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113363048" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:17</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113440929" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:09</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113556210" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:02:16</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" class="dark right">
+    <td contestid="324287" problemid="964274" class="right">
 <span class="cell-rejected">&nbsp;</span>
     </td>
 </tr>
-<tr participantid="112543200">
-    <td class="left">
-        
-            14
+<tr participantid="112537588">
+    <td class="dark left">
+
+            67
     </td>
 
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/rahmahanafi" title="Unrated, rahmahanafi" class="rated-user user-black">rahmahanafi</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112543200" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/MohamedSamir93" title="Unrated, MohamedSamir93" class="rated-user user-black">MohamedSamir93</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112537588" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td>7</td>
+    <td class="dark">2</td>
 
-        <td>
-                32444
+        <td class="dark">
+                3275
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112959187">
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112964811" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">02:14</span>
-        
+        <span class="cell-time">05:26</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113039474">
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113110289" class="dark">
+        <span class="cell-accepted">+10</span>
+        <span class="cell-time">1:21:49</span>
+
+    </td>
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112546491">
+    <td class="left">
+
+            68
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Ahmed_Elhosiny" title="Newbie Ahmed_Elhosiny" class="rated-user user-gray">Ahmed_Elhosiny</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112546491" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                3279
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112966177">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">06:25</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113112441">
+        <span class="cell-accepted">+6</span>
+        <span class="cell-time">1:22:14</span>
+
+    </td>
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112592853">
+    <td class="dark left">
+
+            69
+    </td>
+
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Alaa.Ahmed" title="Unrated, Alaa.Ahmed" class="rated-user user-black">Alaa.Ahmed</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112592853" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td class="dark">2</td>
+
+        <td class="dark">
+                3549
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113044383" class="dark">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">1:02:59</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113050741" class="dark">
         <span class="cell-accepted">+4</span>
-        <span class="cell-time">1:01:10</span>
-        
+        <span class="cell-time">1:06:50</span>
+
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113124426">
-        <span class="cell-accepted">+3</span>
-        <span class="cell-time">2:01:29</span>
-        
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113272962">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">3:02:16</span>
-        
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113363137">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:19</span>
-        
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113441653">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:02:27</span>
-        
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113631411">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">6:21:49</span>
-        
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="963423" class="right">
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
 <span class="cell-rejected">&nbsp;</span>
     </td>
 </tr>
-<tr participantid="112593709">
-    <td class="dark left">
-        
-            15
-    </td>
-
-    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/to.png" alt="Tonga" title="Tonga">        <a href="/profile/AnasHagras" title="Newbie AnasHagras" class="rated-user user-gray">AnasHagras</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112593709" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
-    </td>
-
-
-    <td class="dark">7</td>
-
-        <td class="dark">
-                33155
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113046034" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">1:03:48</span>
-        
-    </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113046758" class="dark">
-        <span class="cell-accepted">+3</span>
-        <span class="cell-time">1:04:12</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113121310" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">2:00:30</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113277328" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:03:48</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113362816" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:02:13</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113444415" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:03:38</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113559517" class="dark">
-        <span class="cell-accepted">+4</span>
-        <span class="cell-time">6:03:26</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" class="dark right">
-<span class="cell-rejected">&nbsp;</span>
-    </td>
-</tr>
-<tr participantid="112539990">
+<tr participantid="112531991">
     <td class="left">
-        
-            16
+
+            70
     </td>
 
     <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/SalmaAhmd" title="Newbie SalmaAhmd" class="rated-user user-gray">SalmaAhmd</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112539990" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/hellana.asaad" title="Unrated, hellana.asaad" class="rated-user user-black">hellana.asaad</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112531991" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td>7</td>
+    <td>2</td>
 
         <td>
-                35566
+                3919
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112952875">
+    <td contestid="324287" problemid="955533" title="GNU C++11" acceptedsubmissionid="112953716">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">00:21</span>
-        
+        <span class="cell-time">00:33</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113105695">
-        <span class="cell-accepted">+3</span>
-        <span class="cell-time">1:21:01</span>
-        
+    <td contestid="324287" problemid="957343" title="GNU C++11" acceptedsubmissionid="113164010">
+        <span class="cell-accepted">+2</span>
+        <span class="cell-time">2:16:06</span>
+
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113197996">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">2:20:49</span>
-        
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113273553">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:02:26</span>
-        
+    <td contestid="324287" problemid="959609">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113415224">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">4:18:54</span>
-        
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113446980">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:04:55</span>
-        
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113616759">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:19:20</span>
-        
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="963423" class="right">
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
 <span class="cell-rejected">&nbsp;</span>
     </td>
 </tr>
-<tr participantid="112582211">
+<tr participantid="112621418">
     <td class="dark left">
-        
-            17
+
+            71
     </td>
 
     <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-        <a href="/profile/ziadasal3" title="Newbie ziadasal3" class="rated-user user-gray">ziadasal3</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112582211" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+        <a href="/profile/Mohamed_sa3d" title="Unrated, Mohamed_sa3d" class="rated-user user-black">Mohamed_sa3d</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112621418" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td class="dark">7</td>
+    <td class="dark">2</td>
 
         <td class="dark">
-                36154
+                5272
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17 (64)" acceptedsubmissionid="113024668" class="dark">
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113097542" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">21:33</span>
-        
+        <span class="cell-time">1:19:40</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17 (64)" acceptedsubmissionid="113097945" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">1:19:43</span>
-        
-    </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17 (64)" acceptedsubmissionid="113242745" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">2:22:12</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17 (64)" acceptedsubmissionid="113341662" class="dark">
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113100897" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">3:20:41</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17 (64)" acceptedsubmissionid="113365796" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">4:03:23</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17 (64)" acceptedsubmissionid="113448626" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">5:05:54</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17 (64)" acceptedsubmissionid="113558780" class="dark">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">6:03:08</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17 (64)" class="dark right">
-<span class="cell-rejected">-8</span>
-    </td>
-</tr>
-<tr participantid="112541886">
-    <td class="left">
-        
-            18
-    </td>
+        <span class="cell-time">1:20:12</span>
 
-    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Anwar-Rizk" title="Unrated, Anwar-Rizk" class="rated-user user-black">Anwar-Rizk</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112541886" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
-
-
-    <td>7</td>
-
-        <td>
-                39257
-        </td>
-
-
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112956415">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">01:19</span>
-        
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113093644">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">1:18:58</span>
-        
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113356578">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">4:00:15</span>
-        
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113346428">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:21:40</span>
-        
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113429352">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">4:22:14</span>
-        
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113539539">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">5:22:43</span>
-        
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113587558">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">6:13:08</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" class="right">
+    <td contestid="324287" problemid="964274" class="dark right">
 <span class="cell-rejected">&nbsp;</span>
     </td>
 </tr>
-<tr participantid="112532406">
+<tr participantid="112623195">
+    <td class="left">
+
+            72
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Shorokatwa14" title="Unrated, Shorokatwa14" class="rated-user user-black">Shorokatwa14</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112623195" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                5502
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113103246">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">1:20:34</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113116465">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">1:23:08</span>
+
+    </td>
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112533514">
     <td class="dark left">
-        
-            19
+
+            73
     </td>
 
     <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/omarsalem1012" title="Unrated, omarsalem1012" class="rated-user user-black">omarsalem1012</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112532406" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Sarrah_mamdouh" title="Unrated, Sarrah_mamdouh" class="rated-user user-black">Sarrah_mamdouh</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112533514" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td class="dark">7</td>
+    <td class="dark">2</td>
 
         <td class="dark">
-                39573
+                5667
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112963213" class="dark">
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112958144" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">04:19</span>
-        
+        <span class="cell-time">01:52</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113085706" class="dark">
-        <span class="cell-accepted">+5</span>
-        <span class="cell-time">1:17:34</span>
-        
+    <td contestid="324287" problemid="957343" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113321196" class="dark">
-        <span class="cell-accepted">+5</span>
-        <span class="cell-time">3:16:40</span>
-        
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113333533" class="dark">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">3:19:01</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113422693" class="dark">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">4:20:38</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113541571" class="dark">
-        <span class="cell-accepted">+3</span>
-        <span class="cell-time">5:23:00</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113645966" class="dark">
+    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113341159" class="dark">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">7:01:01</span>
-        
+        <span class="cell-time">3:20:35</span>
+
     </td>
-    <td contestid="324287" problemid="963423" class="dark right">
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
 <span class="cell-rejected">&nbsp;</span>
     </td>
 </tr>
-<tr participantid="112703813">
+<tr participantid="112587029">
     <td class="left">
-        
-            20
+
+            74
     </td>
 
     <td class="contestant-cell" style="text-align:left;padding-left:1em;">
-<img class="standings-flag" src="//codeforces.org/s/16093/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/daddy." title="Newbie daddy." class="rated-user user-gray">daddy.</a>
-            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112703813" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/HebaElsayed1511" title="Unrated, HebaElsayed1511" class="rated-user user-black">HebaElsayed1511</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112587029" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
     </td>
 
 
-    <td>7</td>
+    <td>2</td>
 
         <td>
-                42312
+                6709
         </td>
 
 
-    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113283273">
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113033415">
         <span class="cell-accepted">+</span>
-        <span class="cell-time">3:07:21</span>
-        
+        <span class="cell-time">23:32</span>
+
     </td>
-    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113284516">
-        <span class="cell-accepted">+3</span>
-        <span class="cell-time">3:08:02</span>
-        
+    <td contestid="324287" problemid="957343">
+<span class="cell-rejected">&nbsp;</span>
     </td>
-    <td contestid="324287" problemid="958508" title="GNU C++17" acceptedsubmissionid="113283512">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:07:29</span>
-        
-    </td>
-    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113283380">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">3:07:25</span>
-        
-    </td>
-    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113363799">
-        <span class="cell-accepted">+1</span>
-        <span class="cell-time">4:02:34</span>
-        
-    </td>
-    <td contestid="324287" problemid="961947" title="GNU C++17" acceptedsubmissionid="113486491">
-        <span class="cell-accepted">+</span>
-        <span class="cell-time">5:18:49</span>
-        
-    </td>
-    <td contestid="324287" problemid="962556" title="GNU C++17" acceptedsubmissionid="113559761">
-        <span class="cell-accepted">+2</span>
-        <span class="cell-time">6:03:32</span>
-        
-    </td>
-    <td contestid="324287" problemid="963423" title="GNU C++17" class="right">
+    <td contestid="324287" problemid="958508" title="GNU C++17">
 <span class="cell-rejected">-2</span>
+    </td>
+    <td contestid="324287" problemid="959609" title="GNU C++17" acceptedsubmissionid="113317548">
+        <span class="cell-accepted">+1</span>
+        <span class="cell-time">3:15:57</span>
+
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112580011">
+    <td class="dark left">
+
+            75
+    </td>
+
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+        <a href="/profile/omarhosny102" title="Unrated, omarhosny102" class="rated-user user-black">omarhosny102</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112580011" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td class="dark">2</td>
+
+        <td class="dark">
+                8039
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113021387" class="dark">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">20:47</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" title="GNU C++17" acceptedsubmissionid="113406031" class="dark">
+        <span class="cell-accepted">+1</span>
+        <span class="cell-time">4:16:52</span>
+
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112542247">
+    <td class="left">
+
+            76
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+        <a href="/profile/sarraaayman855" title="Unrated, sarraaayman855" class="rated-user user-black">sarraaayman855</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112542247" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                9105
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113127958">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">2:02:40</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113368472">
+        <span class="cell-accepted">+1</span>
+        <span class="cell-time">4:04:45</span>
+
+    </td>
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112546172">
+    <td class="dark left">
+
+            77
+    </td>
+
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/alaa.othman98" title="Newbie alaa.othman98" class="rated-user user-gray">alaa.othman98</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112546172" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td class="dark">2</td>
+
+        <td class="dark">
+                9377
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="112965233" class="dark">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">05:45</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113564964" class="dark">
+        <span class="cell-accepted">+2</span>
+        <span class="cell-time">6:05:52</span>
+
+    </td>
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112590872">
+    <td class="left">
+
+            78
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+        <a href="/profile/shaza.ehab192" title="Unrated, shaza.ehab192" class="rated-user user-black">shaza.ehab192</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112590872" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                9480
+        </td>
+
+
+    <td contestid="324287" problemid="955533">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++11" acceptedsubmissionid="113131458">
+        <span class="cell-accepted">+10</span>
+        <span class="cell-time">2:04:18</span>
+
+    </td>
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" title="GNU C++11" acceptedsubmissionid="113367116">
+        <span class="cell-accepted">+7</span>
+        <span class="cell-time">4:04:02</span>
+
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112746753">
+    <td class="dark left">
+
+            79
+    </td>
+
+    <td class="contestant-cell dark" style="text-align:left;padding-left:1em;">
+        <a href="/profile/eman1042002" title="Unrated, eman1042002" class="rated-user user-black">eman1042002</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112746753" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td class="dark">2</td>
+
+        <td class="dark">
+                12202
+        </td>
+
+
+    <td contestid="324287" problemid="955533" title="GNU C++17" acceptedsubmissionid="113368756" class="dark">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">4:04:56</span>
+
+    </td>
+    <td contestid="324287" problemid="957343" title="GNU C++17" acceptedsubmissionid="113371252" class="dark">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">4:06:26</span>
+
+    </td>
+    <td contestid="324287" problemid="958508" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" class="dark">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="964274" class="dark right">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+</tr>
+<tr participantid="112944589">
+    <td class="left">
+
+            80
+    </td>
+
+    <td class="contestant-cell" style="text-align:left;padding-left:1em;">
+<img class="standings-flag" src="//codeforces.org/s/42979/images/flags-16/eg.png" alt="Egypt" title="Egypt">        <a href="/profile/Rabee_Adel" title="Newbie Rabee_Adel" class="rated-user user-gray">Rabee_Adel</a>
+            <a href="#" class="change-participant-type-link not-decorated" style="color:#888;font-size:1.0rem;" data-contestid="324287" data-participantid="112944589" title="Move all participant attempts to practice">&nbsp;→to&nbsp;practice</a>
+    </td>
+
+
+    <td>2</td>
+
+        <td>
+                23302
+        </td>
+
+
+    <td contestid="324287" problemid="955533">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="957343">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="958508">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="959609">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961198">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="961947">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="962556">
+<span class="cell-rejected">&nbsp;</span>
+    </td>
+    <td contestid="324287" problemid="963423" title="GNU C++17 (64)" acceptedsubmissionid="113810823">
+        <span class="cell-accepted">+1</span>
+        <span class="cell-time">8:01:38</span>
+
+    </td>
+    <td contestid="324287" problemid="964274" title="GNU C++17 (64)" acceptedsubmissionid="113813577" class="right">
+        <span class="cell-accepted">+</span>
+        <span class="cell-time">8:02:24</span>
+
     </td>
 </tr>
 <tr class="standingsStatisticsRow">
@@ -2484,28 +2326,31 @@ Ramadan Challange        </a>
     <td class="bottom dark">&nbsp;</td>
         <td class="bottom dark">&nbsp;</td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">90</span><br><span class="notice">92</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">113</span><br><span class="notice">115</span>
         </td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">65</span><br><span class="notice">74</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">74</span><br><span class="notice">88</span>
         </td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">37</span><br><span class="notice">38</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">40</span><br><span class="notice">42</span>
         </td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">52</span><br><span class="notice">59</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">56</span><br><span class="notice">64</span>
         </td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">38</span><br><span class="notice">49</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">41</span><br><span class="notice">52</span>
         </td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">30</span><br><span class="notice">34</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">32</span><br><span class="notice">36</span>
         </td>
         <td class="smaller bottom dark">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">25</span><br><span class="notice">28</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">29</span><br><span class="notice">32</span>
+        </td>
+        <td class="smaller bottom dark">
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">24</span><br><span class="notice">29</span>
         </td>
         <td class="smaller bottom dark right">
-            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">10</span><br><span class="notice">14</span>
+            <span style="font-weight: normal;" class="cell-passed-system-test cell-accepted">12</span><br><span class="notice">15</span>
         </td>
 </tr>
             </tbody></table>
@@ -2621,7 +2466,7 @@ Ramadan Challange        </a>
 
 <div class="history-div" style="padding: 1em; margin: 1em; width: 800px; height: 400px; overflow: auto; display: none; border: 1px solid #888;">
     <div class="indicator" style="display: none;">
-        <img src="//codeforces.org/s/16093/images/indicator.gif">
+        <img src="//codeforces.org/s/42979/images/indicator.gif">
     </div>
 </div>
 
@@ -2679,16 +2524,16 @@ Ramadan Challange        </a>
 </style>
 <div class="source-popup" style="display:none;width:950px;height:600px;overflow:auto;padding:1em;margin:1em;font-size:1.2rem;">
     <span class="source-popup-header" style="">&nbsp;</span>
-    <pre style="background-color: #eff0f1;"><code class="source-popup-source prettyprint linenums prettyprinted" style=""><ol class="linenums"><li class="L0"><img src="//codeforces.org/s/16093/images/indicator.gif"></li></ol></code></pre>
+    <pre style="background-color: #eff0f1;"><code class="source-popup-source prettyprint linenums prettyprinted" style=""><ol class="linenums"><li class="L0"><img src="//codeforces.org/s/42979/images/indicator.gif"></li></ol></code></pre>
 </div>
 
 <script type="text/javascript">
     var source = "";
     $(document).ready(function () {
         showSubmissionSourceCode = function(submissionId) {
-            $.post("/group/p6hc42ieQe/data/submitSource", {submissionId: submissionId}, function(data) {
+            $.post("/data/submitSource", {submissionId: submissionId}, function(data) {
                 var nop = $(".next-or-prev-prototype").clone().removeClass("next-or-prev-prototype").addClass("next-or-prev").css("display", "block");
-                Codeforces.facebox(".source-popup:first", "//codeforces.org/s/16093");
+                Codeforces.facebox(".source-popup:first", "//codeforces.org/s/42979");
                 var sourcePre = $("#facebox").find(".source-popup-source:first");
                 if (data["prettifyClass"]) {
                     sourcePre.addClass(data["prettifyClass"]);
@@ -2810,7 +2655,7 @@ Ramadan Challange        </a>
             var targetParticipantId = $(this).attr("data-participantId");
 
             var changeParticipantType = function () {
-                $.post("/group/p6hc42ieQe/data/changeParticipantType",
+                $.post("/data/changeParticipantType",
                         { contestId: contestId, targetParticipantId: targetParticipantId },
                         function(response) {
                             if (response.success == "true") {
@@ -2835,7 +2680,7 @@ Ramadan Challange        </a>
             var targetParticipantId = $(this).attr("data-participantId");
 
             var changeParticipantType = function () {
-                $.post("/group/p6hc42ieQe/data/changeParticipantType",
+                $.post("/data/changeParticipantType",
                         { action: "devirtualize", contestId: contestId, targetParticipantId: targetParticipantId },
                         function(response) {
                             if (response.success == "true") {
@@ -2859,16 +2704,16 @@ Ramadan Challange        </a>
     <script type="text/javascript">
         $(document).ready(function () {
     function handleContestantProblemHistory(td) {
-        Codeforces.facebox(".history-div", "//codeforces.org/s/16093");
+        Codeforces.facebox(".history-div", "//codeforces.org/s/42979");
         $(".history-div .indicator").show();
 
         var participantId = td.parent().attr("participantId");
         var problemId = td.attr("problemId");
         var contestId = td.attr("contestId");
-        var challengeLink = "/group/p6hc42ieQe/contest/12345678912345/challenge/123456789";
+        var challengeLink = "/gym/12345678912345/challenge/123456789";
         challengeLink = challengeLink.replace("12345678912345", contestId);
 
-        $.post("/group/p6hc42ieQe/data/standings",
+        $.post("/data/standings",
             {participantId: participantId, problemId: problemId},
             function(response) {
                 $(".history-div .indicator").hide();
@@ -2882,7 +2727,7 @@ Ramadan Challange        </a>
                         historyDiv.append(" &rarr; <a submissionId=\"" + event.submissionId + "\" class=\"showSource\" href=\"#\">" + event.submissionId + "</a>");
                         if (event.offerChallenge == "true") {
                             var link = challengeLink.replace("123456789", event.submissionId);
-                            link = "/group/p6hc42ieQe/contest/324287/challenge/123456789".replace("123456789", event.submissionId);
+                            link = "/gym/324287/challenge/123456789".replace("123456789", event.submissionId);
                             historyDiv.append(" &rarr; <a href=\"" + link + "\">hack it!</a>");
                         }
                     }
@@ -2899,12 +2744,12 @@ Ramadan Challange        </a>
     }
 
     function handleContestantHistory(td) {
-        Codeforces.facebox(".history-div", "//codeforces.org/s/16093");
+        Codeforces.facebox(".history-div", "//codeforces.org/s/42979");
         $(".history-div .indicator").show();
 
         var participantId = td.parent().attr("participantId");
 
-        $.post("/group/p6hc42ieQe/data/standings",
+        $.post("/data/standings",
             {participantId: participantId},
             function(response) {
                 $(".history-div .indicator").hide();
@@ -3003,37 +2848,51 @@ $(".standings").each(function () {
 
 <div class="custom-links-pagination">
         <nobr>
-            <span class="page-index active" pageindex="1">
-                
+            <span class="page-index" pageindex="1">
+                <a href="/gym/324287/standings/page/1">
                     1&nbsp;-&nbsp;20
-                
+                </a>
             </span>
         </nobr>
         <nobr>
             <span class="page-index" pageindex="2">
-                <a href="/group/p6hc42ieQe/contest/324287/standings/groupmates/true/page/2">
+                <a href="/gym/324287/standings/page/2">
                     21&nbsp;-&nbsp;40
                 </a>
             </span>
         </nobr>
         <nobr>
             <span class="page-index" pageindex="3">
-                <a href="/group/p6hc42ieQe/contest/324287/standings/groupmates/true/page/3">
+                <a href="/gym/324287/standings/page/3">
                     41&nbsp;-&nbsp;60
                 </a>
             </span>
         </nobr>
         <nobr>
-            <span class="page-index" pageindex="4">
-                <a href="/group/p6hc42ieQe/contest/324287/standings/groupmates/true/page/4">
+            <span class="page-index active" pageindex="4">
+
                     61&nbsp;-&nbsp;80
-                </a>
+
             </span>
         </nobr>
         <nobr>
             <span class="page-index" pageindex="5">
-                <a href="/group/p6hc42ieQe/contest/324287/standings/groupmates/true/page/5">
-                    81&nbsp;-&nbsp;97
+                <a href="/gym/324287/standings/page/5">
+                    81&nbsp;-&nbsp;100
+                </a>
+            </span>
+        </nobr>
+        <nobr>
+            <span class="page-index" pageindex="6">
+                <a href="/gym/324287/standings/page/6">
+                    101&nbsp;-&nbsp;120
+                </a>
+            </span>
+        </nobr>
+        <nobr>
+            <span class="page-index" pageindex="7">
+                <a href="/gym/324287/standings/page/7">
+                    121&nbsp;-&nbsp;122
                 </a>
             </span>
         </nobr>
@@ -3074,7 +2933,7 @@ $(document).keydown(function (e) {
             <div id="footer">
                 <div><a href="https://codeforces.com/">Codeforces</a> (c) Copyright 2010-2021 Mike Mirzayanov</div>
                 <div>The only programming contests Web 2.0 platform</div>
-                    <div>Server time: Apr/21/2021 02:30:46<sup title="timezone offset" style="font-size:8px;">UTC+2</sup> (g2).</div>
+                    <div>Server time: Apr/21/2021 23:03:32<sup title="timezone offset" style="font-size:8px;">UTC+2</sup> (i1).</div>
                     <div>Desktop version, switch to <a rel="nofollow" class="switchToMobile" href="?mobile=true">mobile version</a>.</div>
                 <div class="smaller"><a href="/privacy">Privacy Policy</a></div>
 
@@ -3082,8 +2941,8 @@ $(document).keydown(function (e) {
                         Supported by
                     </div>
                     <div style="margin-top: 8px; padding-bottom: 20px; position: relative; left: 10px;">
-                        <a href="https://telegram.org/"><img style="margin-right: 2em; width: 60px;" src="//codeforces.org/s/16093/images/telegram-100x100.png" alt="Telegram" title="Telegram"></a>
-                        <a href="http://ifmo.ru/en/"><img style="width: 120px;" src="//codeforces.org/s/16093/images/itmo_small_en-logo.png" alt="ИТМО" title="ИТМО"></a>
+                        <a href="https://telegram.org/"><img style="margin-right: 2em; width: 60px;" src="//codeforces.org/s/42979/images/telegram-100x100.png" alt="Telegram" title="Telegram"></a>
+                        <a href="http://ifmo.ru/en/"><img style="width: 120px;" src="//codeforces.org/s/42979/images/itmo_small_en-logo.png" alt="ИТМО" title="ИТМО"></a>
                     </div>
             </div>
         <script type="text/javascript">
@@ -3148,10 +3007,10 @@ $(document).keydown(function (e) {
                 <div style="position:absolute;right:0.25em;top:0.35em;">
                     <span style="padding:0;position:relative;bottom:2px;" class="rowCount"></span>
 
-                    <img class="closed" src="//codeforces.org/s/16093/images/icons/control.png">
+                    <img class="closed" src="//codeforces.org/s/42979/images/icons/control.png">
 
                     <span class="filter" style="display:none;">
-                        <img class="opened" src="//codeforces.org/s/16093/images/icons/control-270.png">
+                        <img class="opened" src="//codeforces.org/s/42979/images/icons/control-270.png">
                         <input style="padding:0 0 0 20px;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;">
                     </span>
                 </div>
@@ -3325,7 +3184,7 @@ $(document).keydown(function (e) {
             }
 
             if (supportedBrowser) {
-                navigator.serviceWorker.register('/service-worker-16093.js')
+                navigator.serviceWorker.register('/service-worker-42979.js')
                     .then(function (registration) {
                         console.log('Service worker registered');
                     })

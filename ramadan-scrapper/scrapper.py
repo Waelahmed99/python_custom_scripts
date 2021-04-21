@@ -22,9 +22,16 @@ def get_problems():
 
 def main():
     lst = []
-    pages = int(input("Enter number of pages"))
+    exceptions = {
+        'shaza.ehab192': 2,
+        'Nada_Ashraf': 2,
+        'EmanElsayed21': 8,
+        'Alaa.Ahmed': 1,
+        'Leena_Almekkawy': 2,
+    }
+    pages = int(input("Enter number of pages: "))
     for i in range(pages):
-        with open("page{}.txt".format(i + 1), "+r") as file:
+        with open("pages/page{}.txt".format(i + 1), "+r") as file:
             data = file.read().rstrip().lstrip()
 
         soup = BeautifulSoup(data, 'html.parser')
@@ -58,21 +65,24 @@ def main():
                         par.verdicts.append('❌')
                     dur += 1
                 par.points = points
+                if name.text in exceptions:
+                    print(name.text + " exception problem " + str(exceptions[name.text]))
+                    par.verdicts[exceptions[name.text] - 1] = '✅'
+                    par.points += 5
                 lst.append(par)  # append new participant
             except:
                 pass
-
     lst.sort(key=operator.attrgetter('points'), reverse=True)
     with open('output.csv', mode='w') as employee_file:
         output_file = csv.writer(employee_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         headers = get_problems()
-        headers.append("points")
         headers.insert(0, "Handle")
+        headers.insert(1, "points")
         output_file.writerow(headers)
         for part in lst:
             out_list = part.verdicts
-            out_list.append(part.points)
             out_list.insert(0, part.name)
+            out_list.insert(1, part.points)
             output_file.writerow(out_list)
 
     read_file = pd.read_csv('output.csv')
