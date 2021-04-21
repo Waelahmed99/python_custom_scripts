@@ -31,7 +31,7 @@ def main():
     }
     pages = int(input("Enter number of pages: "))
     for i in range(pages):
-        with open("pages/page{}.txt".format(i + 1), "+r") as file:
+        with open("pages/page{}.html".format(i + 1), "+r") as file:
             data = file.read().rstrip().lstrip()
 
         soup = BeautifulSoup(data, 'html.parser')
