@@ -30,6 +30,13 @@ def main():
         'Leena_Almekkawy': 2,
     }
     pages = int(input("Enter number of pages: "))
+    for i in range(1, pages + 1):
+        input("Press any key to paste page {} content".format(i))
+        url = "https://codeforces.com/gym/324287/standings/page/{}".format(i)
+        os.system("firefox {}".format(url))
+        f = open("pages/page{}.html".format(i), "+x")
+        os.system("nano pages/page{}.html".format(i))
+
     for i in range(pages):
         with open("pages/page{}.html".format(i + 1), "+r") as file:
             data = file.read().rstrip().lstrip()
@@ -88,6 +95,7 @@ def main():
     read_file = pd.read_csv('output.csv')
     read_file.to_excel('output.xlsx', index=None, header=True)
     os.remove("output.csv")
+    os.system("rm pages/*")
 
 
 if __name__ == "__main__":
