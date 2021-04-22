@@ -5,6 +5,18 @@ import os
 from bs4 import BeautifulSoup
 
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+
 class Participant:
     name = any
     verdicts = any
@@ -29,6 +41,10 @@ def main():
         'Alaa.Ahmed': 1,
         'Leena_Almekkawy': 2,
     }
+    print("Make sure you added all problems names in " + bcolors.HEADER + "problems.txt" + bcolors.ENDC)
+    print("The script will open each page for you\ninspect the content html, " + bcolors.BOLD +
+          "right click in the html tag, and choose edit as html" + bcolors.ENDC)
+    print(bcolors.WARNING + "To save in nano editor, press ctrl+s then ctrl+x to leave.\n" + bcolors.ENDC)
     pages = int(input("Enter number of pages: "))
     for i in range(1, pages + 1):
         input("Press any key to paste page {} content... ".format(i))
@@ -73,7 +89,7 @@ def main():
                     dur += 1
                 par.points = points
                 if name.text in exceptions:
-                    print(name.text + " exception problem " + str(exceptions[name.text]))
+                    print(bcolors.OKBLUE + name.text + " exception problem " + str(exceptions[name.text]) + bcolors.ENDC)
                     par.verdicts[exceptions[name.text] - 1] = '✅'
                     par.points += 5
                 lst.append(par)  # append new participant
@@ -96,6 +112,7 @@ def main():
     read_file.to_excel('output.xlsx', index=None, header=True)
     os.remove("output.csv")
     os.system("rm pages/*")
+    print(bcolors.OKGREEN + "Done scrapping the standing in output.xlsx 💁" + bcolors.ENDC)
 
 
 if __name__ == "__main__":
