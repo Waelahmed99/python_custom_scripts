@@ -31,7 +31,7 @@ def main():
     }
     pages = int(input("Enter number of pages: "))
     for i in range(1, pages + 1):
-        input("Press any key to paste page {} content".format(i))
+        input("Press any key to paste page {} content... ".format(i))
         url = "https://codeforces.com/gym/324287/standings/page/{}".format(i)
         os.system("firefox {}".format(url))
         f = open("pages/page{}.html".format(i), "+x")
