@@ -3,6 +3,7 @@ import csv
 import pandas as pd
 import os
 from bs4 import BeautifulSoup
+from selenium import webdriver
 
 
 class bcolors:
@@ -46,13 +47,24 @@ def main():
           "right click in the html tag, and choose edit as html" + bcolors.ENDC)
     print(bcolors.WARNING + "To save in nano editor, press ctrl+s then ctrl+x to leave.\n" + bcolors.ENDC)
     pages = int(input("Enter number of pages: "))
+    driver = webdriver.Firefox()
+
+    driver.get("https://codeforces.com/enter")
+    element = driver.find_element_by_id("handleOrEmail")
+    email = input("Enter you Email/handle")
+    element.send_keys(email)
+    password = input("Enter your password")
+    element = driver.find_element_by_id("password")
+    element.send_keys(password)
+    driver.find_element_by_xpath("//input[@type='submit' and @value='Login']").click()
+
     for i in range(1, pages + 1):
         input("Press any key to paste page {} content... ".format(i))
         url = "https://codeforces.com/gym/324287/standings/page/{}".format(i)
-        os.system("firefox {}".format(url))
-        f = open("pages/page{}.html".format(i), "+x")
-        os.system("nano pages/page{}.html".format(i))
-
+        driver.get(url)
+        with open("pages/page{}.html".format(i + 1), "+w") as file:
+            file.write(driver.context())
+            
     for i in range(pages):
         with open("pages/page{}.html".format(i + 1), "+r") as file:
             data = file.read().rstrip().lstrip()
