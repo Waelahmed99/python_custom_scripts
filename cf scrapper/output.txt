@@ -1,0 +1,134 @@
+677A Vanya and Fence
+734A Anton and Danik
+112A Petya and Strings
+228A Is your horseshoe on the other hoof?
+231A Team
+236A Boy or Girl
+263A Beautiful Matrix
+265A Colorful Stones (Simplified Edition)
+266A Stones on the Table
+268A Games
+281A Word Capitalization
+344A Magnets
+381A Sereja and Dima
+405A Gravity Flip
+427A Police Recruits
+431A Black Square
+59A Word
+731A Night at the Museum
+732A Buy a Shovel
+791A Bear and Big Brother
+365A Good Number
+298A Snow Footprints
+118A String Task
+136A Presents
+158A Next Round
+160A Twins
+208A Dubstep
+218A Mountain Scenery
+225A Dice Tower
+270A Fancy Fence
+282A Bit++
+287A IQ Test
+289A Polo the Penguin and Segments 
+294A Shaass and Oskols
+296A Yaroslav and Permutations
+318A Even Odds
+339A Helpful Maths
+382A Ksenia and Pan Scales
+41A Translation
+43A Football
+443A Anton and Letters
+456A Laptops
+469A I Wanna Be the Guy
+474A Keyboard
+483A Counterexample 
+486A Calculating Function
+490A Team Olympiad
+514A Chewbaсca and Number
+520A Pangram
+556A Case of the Zeros and Ones
+567A Lineland Mail
+579A Raising Bacteria
+584A Olesya and Rodion
+682A Alyona and Numbers
+686A Free Ice Cream
+69A Young Physicist
+699A Launch of Collider
+707A Brain's Photos
+71A Way Too Long Words
+742A Arpa’s hard exam and Mehrdad’s naive cheat
+766A Mahmoud and Longest Uncommon Subsequence
+767A Snacktower
+768A Oath of the Night's Watch
+770A New Password
+799A Carrot Cakes
+80A Panoramix's Prediction
+807A Is it rated?
+9A Die Roll
+6B President's Office
+102B Sum of Digits
+129B Students and Shoelaces
+144B Meeting
+152B Steps
+16B Burglar and Matches
+186B Growing Mushrooms
+215B Olympic Medal
+227B Effective Approach
+262B Roma and Changing Signs
+337B Routine Problem
+352B Jeff and Periods
+376B I.O.U.
+384B Multitasking
+385B Bear and Strings
+400B Inna and New Matrix of Candies
+415B Mashmokh and Tokens
+435B Pasha Maximizes
+443B Kolya and Tandem Repeat
+445B DZY Loves Chemistry
+448B Suffix Structures
+462B Appleman and Card Game
+469B Chat Online
+47B Coins
+476B Dreamoon and WiFi
+486B OR in Matrix
+493B Vasya and Wrestling
+496B Secret Combination
+505B Mr. Kitayuta's Colorful Graph
+510B Fox And Two Dots
+525B Pasha and String
+544B Sea and Islands
+558B Amr and The Large Array
+580B Kefa and Company
+584B Kolya and Tanya 
+602B Approximating a Constant Range
+608B Hamming Distance Sum
+66B Petya and Countryside
+680B Bear and Finding Criminals
+714B Filya and Homework
+716B Complete the Word
+78B Easter Eggs
+141B Hopscotch
+228B Two Tables
+253B Physics Practical
+276B Little Girl and Game
+282B Painting Eggs
+363B Fence
+369B Valera and Contest
+439B Devu, the Dumb Guy
+451B Sort the Array
+492B Vanya and Lanterns
+514B Han Solo and Lazer Gun
+520B Two Buttons
+535B Tavas and SaDDas
+550B Preparing Olympiad
+688B Lovely Palindromes
+719B Anatoly and Cockroaches
+746B Decoding
+766B Mahmoud and a Triangle
+79B Colorful Field
+791B Bear and Friendship Condition
+796B Find The Bone
+88B Keyboard
+433B Kuriyama Mirai's Stones
+610B Vika and Squares
