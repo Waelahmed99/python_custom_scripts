@@ -4,7 +4,8 @@ import pandas as pd
 import os
 from bs4 import BeautifulSoup
 from selenium import webdriver
-
+import time as sleep
+from getpass import getpass
 
 class bcolors:
     HEADER = '\033[95m'
@@ -43,32 +44,33 @@ def main():
         'Leena_Almekkawy': 2,
     }
     print("Make sure you added all problems names in " + bcolors.HEADER + "problems.txt" + bcolors.ENDC)
-    print("The script will open each page for you\ninspect the content html, " + bcolors.BOLD +
-          "right click in the html tag, and choose edit as html" + bcolors.ENDC)
-    print(bcolors.WARNING + "To save in nano editor, press ctrl+s then ctrl+x to leave.\n" + bcolors.ENDC)
+    print("The script will open each page for you")
+    print(bcolors.WARNING + "This might take 3 seconds per page, please be patient.😊\n" + bcolors.ENDC)
     pages = int(input("Enter number of pages: "))
-    driver = webdriver.Firefox()
 
+    email = input("Enter codeforces handle/email: ")
+    password = getpass(prompt="Enter codeforces password: ")
+
+    driver = webdriver.Firefox()
     driver.get("https://codeforces.com/enter")
     element = driver.find_element_by_id("handleOrEmail")
-    email = input("Enter you Email/handle")
     element.send_keys(email)
-    password = input("Enter your password")
     element = driver.find_element_by_id("password")
     element.send_keys(password)
     driver.find_element_by_xpath("//input[@type='submit' and @value='Login']").click()
 
+    input("Press any key after you ensure codeforces login... ")
+    print()
+    pagesHTML = []
     for i in range(1, pages + 1):
-        input("Press any key to paste page {} content... ".format(i))
+        print(bcolors.OKCYAN +  "Scrapping" + bcolors.ENDC + " page No.{} content".format(i))
         url = "https://codeforces.com/gym/324287/standings/page/{}".format(i)
         driver.get(url)
-        with open("pages/page{}.html".format(i + 1), "+w") as file:
-            file.write(driver.context())
+        pagesHTML.append(driver.page_source)
+        sleep.sleep(3)
             
     for i in range(pages):
-        with open("pages/page{}.html".format(i + 1), "+r") as file:
-            data = file.read().rstrip().lstrip()
-
+        data = str(pagesHTML[i])
         soup = BeautifulSoup(data, 'html.parser')
         table = soup.find_all('table', class_='standings')[0]
         body = table.find('tbody')
@@ -123,8 +125,7 @@ def main():
     read_file = pd.read_csv('output.csv')
     read_file.to_excel('output.xlsx', index=None, header=True)
     os.remove("output.csv")
-    os.system("rm pages/*")
-    print(bcolors.OKGREEN + "Done scrapping the standing in output.xlsx 💁" + bcolors.ENDC)
+    print(bcolors.OKGREEN + "\nDone scrapping the standing in output.xlsx 💁" + bcolors.ENDC)
 
 
 if __name__ == "__main__":
