@@ -29,20 +29,13 @@ class Participant:
         self.verdicts = []
 
 
-def get_problems():
-    f = open("problems.txt", "+r")
+def get_data(file):
+    f = open(file, "+r")
     return f.read().split("\n")
-
 
 def main():
     lst = []
-    exceptions = {
-        'shaza.ehab192': 2,
-        'Nada_Ashraf': 2,
-        'EmanElsayed21': 8,
-        'Alaa.Ahmed': 1,
-        'Leena_Almekkawy': 2,
-    }
+    exceptions = get_data("exceptions.txt")
     print("Make sure you added all problems names in " + bcolors.HEADER + "problems.txt" + bcolors.ENDC)
     print("The script will open each page for you")
     print(bcolors.WARNING + "This might take 3 seconds per page, please be patient.😊\n" + bcolors.ENDC)
@@ -102,17 +95,22 @@ def main():
                         par.verdicts.append('❌')
                     dur += 1
                 par.points = points
-                if name.text in exceptions:
-                    print(bcolors.OKBLUE + name.text + " exception problem " + str(exceptions[name.text]) + bcolors.ENDC)
-                    par.verdicts[exceptions[name.text] - 1] = '✅'
-                    par.points += 5
                 lst.append(par)  # append new participant
             except:
                 pass
+
+    for exception in exceptions:
+        exception = exception.split(' ')
+        for par in lst:
+            if par.name == exception[0]:
+                print(bcolors.OKBLUE + par.name + " exception problem " + str(exception[1]) + bcolors.ENDC)
+                par.verdicts[int(exception[1]) - 1] = '✅'
+                par.points += 5
+
     lst.sort(key=operator.attrgetter('points'), reverse=True)
     with open('output.csv', mode='w') as employee_file:
         output_file = csv.writer(employee_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        headers = get_problems()
+        headers = get_data("problems.txt")
         headers.insert(0, "Handle")
         headers.insert(1, "points")
         output_file.writerow(headers)
